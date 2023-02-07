@@ -1,0 +1,56 @@
+/*colors*/
+/* Mixin's*/ 
+
+    
+    
+body{
+    background-color: #0EBEFF;
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+    height:100%;
+    
+
+}
+
+.Project-1{
+    width: 800px;
+    margin: 30px auto;
+    color: #FFFEFB;
+    text-align:center;
+}
+
+h1, h2{
+    font-family:  sans-serif;
+    font-weight: 100;
+    font-size: 2.6em;
+}
+
+#seconds, #tens , b{
+    font-size: 2em;
+}
+
+button{
+    border-radius:5px;
+    background:#0EBEFF;
+    color:#FFFEFB;
+    border: solid 1px #FFFEFB;
+    text-decoration:none;
+    cursor:pointer;
+    font-size:1.2em;
+    padding:18px 10px;
+    width:180px;
+    margin: 10px;
+    outline: none;
+      
+    }
+
+    button:hover{
+        transition-duration: 2s;
+	    background:pink;
+	    border: solid 1px #FFFEFB;
+	    color:#FFFEFB;
+        
+    }
+
+
+
+
